@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="">https://i.ibb.co/DDpK0Tmy/image.png</img>
+</div>
+
 # DJ-to-SpinRhythm
 A program that lets you use your XBOX 360 DJ Hero Turntable For Spin Rhythm XD.
 (PS3 Support currently being worked on!)
