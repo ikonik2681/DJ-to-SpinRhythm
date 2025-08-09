@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="">https://i.ibb.co/DDpK0Tmy/image.png</img>
+    <img src="">https://imgur.com/a/8dKxdMl</img>
 </div>
 
 # DJ-to-SpinRhythm
